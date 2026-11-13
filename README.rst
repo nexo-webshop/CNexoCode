@@ -1,4 +1,4 @@
-This is Python version 3.16.0 alpha 2+dev
+This is Nexo Code version 0.1.0 Spark 
 =========================================
 
 .. image:: https://github.com/python/cpython/actions/workflows/build.yml/badge.svg?branch=main&event=push
@@ -14,7 +14,7 @@ This is Python version 3.16.0 alpha 2+dev
    :target: https://discuss.python.org/
 
 
-Copyright © 2001 Python Software Foundation.  All rights reserved.
+Copyright © 2026 Nexo Studio's. All Rights Reserved.
 
 See the end of this file for further copyright and license information.
 
@@ -23,13 +23,13 @@ See the end of this file for further copyright and license information.
 General Information
 -------------------
 
-- Website: https://www.python.org
-- Source code: https://github.com/python/cpython
-- Issue tracker: https://github.com/python/cpython/issues
+- Website: https://www.sites.google.com/view/nexo-studios
+- Source code: https://github.com/nexo-webshop/CNexoCode
+- Issue tracker: https://github.com/nexo-webshop/CNexoCode/issues
 - Documentation: https://docs.python.org
 - Developer's Guide: https://devguide.python.org/
 
-Contributing to CPython
+Contributing to CNexoCode
 -----------------------
 
 For more complete instructions on contributing to CPython development,
@@ -37,7 +37,7 @@ see the `Developer Guide`_.
 
 .. _Developer Guide: https://devguide.python.org/
 
-Using Python
+Using Nexo Code
 ------------
 
 Installable Python kits, and information about using Python, are available at
@@ -55,7 +55,7 @@ On Unix, Linux, BSD, macOS, and Cygwin::
     make test
     sudo make install
 
-This will install Python as ``python3``.
+This will install Nexo Code as ``python3``.
 
 You can pass many options to the configure script; run ``./configure --help``
 to find out more.  On macOS case-insensitive file systems and on Cygwin,
@@ -214,6 +214,7 @@ See `PEP 826 <https://peps.python.org/pep-0826/>`__ for Python 3.16 release deta
 Copyright and License Information
 ---------------------------------
 
+Copyright © Nexo Studio's. All Rights Reserved
 
 Copyright © 2001 Python Software Foundation.  All rights reserved.
 
