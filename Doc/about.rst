@@ -3,7 +3,7 @@ About this documentation
 ========================
 
 
-Python's documentation is generated from `reStructuredText`_ sources
+Nexo Code's documentation is generated from `reStructuredText`_ sources
 using `Sphinx`_, a documentation generator originally created for Python
 and now maintained as an independent project.
 
@@ -14,27 +14,17 @@ and now maintained as an independent project.
    changes directly on the documentation pages.
 
 Development of the documentation and its toolchain is an entirely volunteer
-effort, just like Python itself.  If you want to contribute, please take a
+effort, just like Nexo Code itself.  If you want to contribute, please take a
 look at the :ref:`reporting-bugs` page for information on how to do so.  New
 volunteers are always welcome!
-
-Many thanks go to:
-
-* Fred L. Drake, Jr., the creator of the original Python documentation toolset
-  and author of much of the content;
-* the `Docutils <https://docutils.sourceforge.io/>`_ project for creating
-  reStructuredText and the Docutils suite;
-* Fredrik Lundh for his Alternative Python Reference project from which Sphinx
-  got many good ideas.
-
 
 Contributors to the Python documentation
 ----------------------------------------
 
-Many people have contributed to the Python language, the Python standard
-library, and the Python documentation.  See the `CPython
+Many people have contributed to the Nexo Code language, the Nexo Code standard
+library, and the Nexo Code documentation.  See the `Nexo Code
 GitHub repository <https://github.com/python/cpython/graphs/contributors>`__
 for a partial list of contributors.
 
-It is only with the input and contributions of the Python community
+It is only with the input and contributions of the Nexo Code community
 that Python has such wonderful documentation -- Thank You!
