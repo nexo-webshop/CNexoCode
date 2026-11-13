@@ -70,8 +70,8 @@ del warnings
 manpages_url = 'https://manpages.debian.org/{path}'
 
 # General substitutions.
-project = 'Python'
-copyright = "2001 Python Software Foundation"
+project = 'Nexo Code'
+copyright = "2026 Nexo Studio's"
 _doc_authors = 'Python documentation authors'
 
 # We look for the Include/patchlevel.h file in the current Python source tree
